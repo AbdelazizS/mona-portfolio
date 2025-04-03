@@ -35,8 +35,8 @@ const Navbar5 = () => {
       href: "#projects",
     },
     {
-      title: "Contact",
-      href: "#contact",
+      title: "Testimonials",
+      href: "#testimonials",
     },
   ];
 

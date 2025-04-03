@@ -9,7 +9,6 @@ import Projects from "@/components/Projects";
 import Cta from "@/components/Cta";
 import Logos from "@/components/Logos";
 import Footer from "@/components/Footer";
-import Contact from "@/components/Contact copy 2";
 import Feedbacks from "@/components/feedbacks";
 
 export default function Home() {

@@ -11,7 +11,7 @@ export default function Testimonials() {
     <>
       {/* <!-- Testimonials Section: Large Photo --> */}
 
-      <div className="overflow-hidden bg-gradient bg-gradient-to-br from-primary/45 via-primary/70 to-primary/90">
+      <div id="testimonials" className="overflow-hidden bg-gradient bg-gradient-to-br from-primary/45 via-primary/70 to-primary/90">
         <div className="container mx-auto px-4 py-16 lg:px-8 lg:py-32 xl:max-w-7xl">
           <Carousel>
             <CarouselContent>
